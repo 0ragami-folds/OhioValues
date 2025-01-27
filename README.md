@@ -1,11 +1,14 @@
 # Vue + Vite + TailwindCSS + Flask
 
-I setup the daisyui and tailwindcss as well as flask just clobe 
-```yarn
+I setup the daisyui and tailwindcss as well as flask just clone and run the following: 
 ```
-```yarn build
+yarn
 ```
-```python -m flask run
+```
+yarn build
+```
+```
+python -m flask run
 ```
 
 # erm so I didnt upload all the files and I dont got my PC 💀 and its broken
